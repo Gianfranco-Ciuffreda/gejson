@@ -1,0 +1,37 @@
+[{
+   "type": "Feature",
+   "properties": {
+       "name": "Boraso",
+       "parking": "parking",
+       "url": "https://www.boraso.com"
+   },
+   "geometry": {
+       "type": "Point",
+       "coordinates": [  11.606210768222809,
+         44.90535738084269]
+   }
+}, {
+   "type": "Feature",
+   "properties": {
+       "name": "Lidl",
+       "parking": "parking",
+         "url": "https://www.lidl.it"
+   },
+   "geometry": {
+       "type": "Point",
+       "coordinates": [11.60618931055069,
+         44.904379007210466]
+   }
+}, {
+   "type": "Feature",
+   "properties": {
+       "name": "Strada",
+       "parking": "stadium",
+         "url": "https://turbolab.it/"
+   },
+   "geometry": {
+       "type": "Point",
+       "coordinates": [ 11.605803072452545,
+         44.905169306427524]
+   }
+}]
